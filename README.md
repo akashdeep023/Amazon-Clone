@@ -1,6 +1,6 @@
 # Amazon Clone
 
-##A clone of the Amazon website for practicing web development skills.
+## A clone of the Amazon website for practicing web development skills.
 
 ## Technologies used :
    1. HTML
