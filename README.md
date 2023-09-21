@@ -6,6 +6,6 @@
    1. HTML
    2. CSS
 
-## Author
+## Author :
     Akash Deep
     Email: ad3500476@gmail.com
