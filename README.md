@@ -10,5 +10,13 @@
    Akash Deep
    Email: ad3500476@gmail.com
 
-## Link :
+## Website Link :
    url : https://akashdeep023.github.io/Amazon-Clone/
+
+## Ex- Image
+**Home Page**
+
+**Footer Page**
+
+
+### Thanks for visit... 😊😊😊
