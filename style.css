@@ -241,14 +241,20 @@ label.sicon {
 }
 
 .cardCount {
-    color: orange;
-    font-size: .85em;
+    color: black;
+    font-size: .75em;
     padding: 0;
     margin: 0;
     position: relative;
     font-weight: 700;
-    right: .3em;
-    bottom: .5em;
+    right: .54em;
+    bottom: .75em;
+    background-color: orange;
+    border-radius: 50%;
+    height: 1.1rem;
+    width: 1rem;
+    line-height: 1.2rem ;
+    padding: 0px 0px 0px 5.5px;
 }
 
 .card span {
@@ -523,15 +529,14 @@ img.last:hover {
     right: 10px;
 }
 
-/*  */
-#slideButton-s {
+#slideButton-s, #slideButton-b {
     cursor: pointer;
-    position: absolute;
+    position: sticky;
     background-color: white;
     color: black;
     box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.594);
-    /* height: 5vw;
-    width: 3vw; */
+    height: 5vw;
+    width: 3vw;
     height: 2rem;
     width: 1rem;
     border-radius: 3px;
@@ -542,10 +547,11 @@ img.last:hover {
     top: 60px;
     /* bottom: 2rem; */
     font-size: 1.75rem;
-    padding: 5px;
+    padding: 10px;
 }
-
-/*  */
+#slideButton-b{
+    top: 90px;
+}
 
 @media (max-width: 1500px) {
     .main .main-img a img {
@@ -586,9 +592,12 @@ img.last:hover {
         box-shadow: 0px -10px 20px 15px rgb(239, 239, 239);
     }
 
-    #slideButton i{
+    #slideButton i, #slideButton-s i, #slideButton-b i{
         /* font-size: 15px; */
-        font-size: .75rem;
+        font-size: .95rem;
+    }
+    #slideButton-s, #slideButton-b{
+        padding: 2px 8px;
     }
 
 }
@@ -599,8 +608,11 @@ img.last:hover {
         box-shadow: 0px -10px 20px 15px rgb(239, 239, 239);
     }
 
-    #slideButton i{
-        font-size: .55rem;
+    #slideButton i, #slideButton-s i, #slideButton-b i{
+        font-size: .75rem;
+    }
+    #slideButton-s, #slideButton-b{
+        padding: 1px 7px;
     }
 }
 
@@ -975,11 +987,26 @@ img.last:hover {
 .amazon_live > div > div:last-child {
     width: 100%;
     display: flex;
-    height: 230px;
+    height: 250px;
     overflow-y: hidden;
     scroll-behavior: smooth;
     scrollbar-width: none;
     margin: 5px;
+}
+.amazon_live > div > div:last-child::-webkit-scrollbar {
+    background-color: rgb(255, 255, 255);
+    height: 10px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.amazon_live > div > div:last-child::-webkit-scrollbar-button {
+    display: none;
+}
+
+.amazon_live > div > div:last-child::-webkit-scrollbar-thumb {
+    background-color: rgb(183, 183, 183);
+    border-radius: 50px;
 }
 
 .amazon_live > div > div:last-child > div:first-child {
@@ -1004,6 +1031,21 @@ img.last:hover {
     width: 100%;
     display: flex;
     height: 250px;
+}
+.amazon_live > div > div:last-child > div:last-child::-webkit-scrollbar {
+    background-color: rgb(255, 255, 255);
+    height: 10px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.amazon_live > div > div:last-child > div:last-child::-webkit-scrollbar-button {
+    display: none;
+}
+
+.amazon_live > div > div:last-child > div:last-child::-webkit-scrollbar-thumb {
+    background-color: rgb(183, 183, 183);
+    border-radius: 50px;
 }
 
 @media (min-width: 768px) {
