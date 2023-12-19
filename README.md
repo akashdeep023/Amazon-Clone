@@ -15,14 +15,16 @@
    url : https://akashdeep023.github.io/Amazon-Clone/
 
 ## Ex- Image
-**Home Page**
-![Screenshot 2023-12-14 023847](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/612bcdd8-4990-4a64-afd7-2b718c262f72)
-![Screenshot 2023-12-14 023937](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/88f8d870-6637-4832-ac11-d12758f8ddd9)
-![Screenshot 2023-12-14 024040](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/f71c7825-6612-408b-83e8-0bfa35eb483a)
+### Home Page
+![Screenshot 2023-12-19 220659](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/075ca8a2-cc0c-426a-ab63-6703ad2f4e58)
+![Screenshot 2023-12-19 220750](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/38c77534-3ff6-423a-a917-d479cd18f5af)
+![Screenshot 2023-12-19 220838](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/7bf8bc88-a26b-4797-9095-9d4691afccb7)
+![Screenshot 2023-12-19 220936](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/eeee40a0-a694-4e3f-aa3d-899592c0e40f)
+![Screenshot 2023-12-19 221028](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/f2412acc-f41d-40d7-a6d9-e1d403cfedef)
 
-**Footer Page**
-![Screenshot 2023-12-14 024210](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/a9989706-6007-49b4-a079-20fa97938e29)
-![Screenshot 2023-12-14 024226](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/bb448955-7948-4c45-ab2b-54c4ea063ce0)
+### Footer Page
+![Screenshot 2023-12-19 221108](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/6da7a1d7-500b-483d-b0e4-4816c7b1a4b6)
+![Screenshot 2023-12-19 221136](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/2ee9323f-d01a-43af-b522-45afa1be6b06)
 
 
 ### Thanks for visit... 😊😊😊
