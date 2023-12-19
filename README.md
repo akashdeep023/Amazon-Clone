@@ -10,6 +10,7 @@
 ## Author :
    Akash Deep
    Email: ad3500476@gmail.com
+   LinkedIn : https://www.linkedin.com/in/akashdeep023/
 
 ## Website Link :
    url : https://akashdeep023.github.io/Amazon-Clone/
