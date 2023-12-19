@@ -529,7 +529,7 @@ img.last:hover {
     right: 10px;
 }
 
-#slideButton-s, #slideButton-b {
+#slideButton-s, #slideButton-b , #slideButton-l {
     cursor: pointer;
     position: sticky;
     background-color: white;
@@ -549,7 +549,7 @@ img.last:hover {
     font-size: 1.75rem;
     padding: 10px;
 }
-#slideButton-b{
+#slideButton-b, #slideButton-l{
     top: 90px;
 }
 
@@ -1160,18 +1160,18 @@ img.last:hover {
 }
 
 .last-sign-in button {
-    width: 250px;
     height: 30px;
-    border: 2px solid orange;
-    border-radius: 5px;
-    background: rgb(249, 224, 1);
-    padding: 5px;
+    width: 100%;
+    background-color: yellow;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
 }
 
 .last-sign-in button:hover {
-    background: orange;
+    background: yellowgreen;
     color: white;
-    border: 2px solid yellow;
+    border: 2px solid grey;
 }
 
 .last-sign-in a.seeOffer {
