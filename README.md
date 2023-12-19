@@ -19,7 +19,7 @@
 
 ## Ex- Image
 ### Home Page
-![Screenshot 2023-12-19 220659](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/075ca8a2-cc0c-426a-ab63-6703ad2f4e58)
+![Screenshot 2023-12-19 222803](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/76cbf588-128f-4362-a344-8f021f4bcef6)
 ![Screenshot 2023-12-19 220750](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/38c77534-3ff6-423a-a917-d479cd18f5af)
 ![Screenshot 2023-12-19 220838](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/7bf8bc88-a26b-4797-9095-9d4691afccb7)
 ![Screenshot 2023-12-19 220936](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/eeee40a0-a694-4e3f-aa3d-899592c0e40f)
