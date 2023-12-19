@@ -9,7 +9,9 @@
 
 ## Author :
    Akash Deep
+   <br>
    Email: ad3500476@gmail.com
+   <br>
    LinkedIn : https://www.linkedin.com/in/akashdeep023/
 
 ## Website Link :
