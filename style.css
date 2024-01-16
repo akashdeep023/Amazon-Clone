@@ -1025,6 +1025,9 @@ img.last:hover {
     .amazon_live > div > div:last-child > div:first-child > video {
         width: 240px;
     }
+    .mini_slide-live #slideButton-l{
+        display: none;
+    }
 }
 
 .amazon_live > div > div:last-child > div:last-child {
