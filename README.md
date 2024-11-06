@@ -2,6 +2,16 @@
 
 ## A clone of the Amazon website for practicing web development skills.
 
+---
+
+<a style="" href="https://akashdeep023.github.io/Amazon-Clone/">
+  
+![amazon](https://github.com/user-attachments/assets/209e069e-e662-4368-99f5-5aeb16aa8c3a)
+
+</a>
+
+---
+
 ## Technologies used :
    1. HTML
    2. CSS
